@@ -1,0 +1,12 @@
+{
+  "base_model": {
+    "examples": 200,
+    "rougeL": 0.09960638400191472,
+    "sacrebleu": 0.08429281969215649
+  },
+  "adapter_model": {
+    "examples": 200,
+    "rougeL": 0.23164233449839686,
+    "sacrebleu": 3.139702686298787
+  }
+}
