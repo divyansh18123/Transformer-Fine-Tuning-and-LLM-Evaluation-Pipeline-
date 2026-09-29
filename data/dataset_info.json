@@ -1,0 +1,17 @@
+{
+  "dataset": "FiscalNote/billsum",
+  "dataset_url": "https://huggingface.co/datasets/FiscalNote/billsum",
+  "license": "CC0-1.0 (as listed on the Hugging Face dataset card)",
+  "seed": 42,
+  "source_splits": {
+    "train": "train",
+    "validation": "train",
+    "test": "test"
+  },
+  "written_examples": {
+    "train": 1000,
+    "validation": 200,
+    "test": 200
+  },
+  "citation": "Kornilova and Eidelman (2019), BillSum: A Corpus for Automatic Summarization of US Legislation, https://aclanthology.org/D19-5406/"
+}
